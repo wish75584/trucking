@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 Sep 2021 13:08:18 at http://pixel-industry.com/html/trucking +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://pixel-industry.com/html/trucking -O1 "D:\web deisgn\virtue projects\Logistics\trucking" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:08:21	Warning: 	Note: due to pixel-industry.com remote robots.txt rules, links beginning with these path will be forbidden: /website/wp-admin/ (see in the options to disable this)
+13:15:09	Error: 	"Not Found" (404) at link pixel-industry.com/html/trucking/www.pixel-industry.com (from pixel-industry.com/html/trucking/)
+13:15:10	Error: 	"Not Found" (404) at link pixel-industry.com/html/trucking/img/slidervideo-bg.jpg (from pixel-industry.com/html/trucking/index03.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 52 seconds : 263 links scanned, 260 files written (11036028 bytes overall) [11133307 bytes received at 27022 bytes/sec], 2.6 requests per connection
+(2 errors, 1 warnings, 0 messages)
